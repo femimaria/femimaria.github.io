@@ -47,8 +47,8 @@ The impact of small design changes on user behavior.
 Integration of multiple analytics platforms for deeper insights.
 
 Live Demo
-Version A: 
-Version B: Link to Page B
+Version A: https://femimaria.github.io/variantA/
+Version B: https://femimaria.github.io/variantB/
 
 📬 Contact
 Femi Maria Sebastian
